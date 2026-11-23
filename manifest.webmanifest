@@ -1,0 +1,36 @@
+{
+ "name": "Pillarwise",
+ "short_name": "Pillarwise",
+ "description": "Check the five pillars of your digital security: confidentiality, integrity, availability, authenticity and non-repudiation.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#08363a",
+ "theme_color": "#08363a",
+ "lang": "en",
+ "dir": "auto",
+ "categories": [
+  "security",
+  "utilities",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
